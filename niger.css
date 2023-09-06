@@ -1,0 +1,14 @@
+.div{
+    width: 80%;
+    margin: auto;
+    height: 100px;
+}
+
+.bgcolor{ background-color: gold;}
+.bgimage{ background-image: url(karpovich.jpg)}
+.bgposition{
+    height: 350 ;
+    background: url(karpovich.jpg); #620063 no-repeat left;
+}
+.gradient1{ background:linear-gradient(to right, red, yellow, green);}
+.gradient2{ background: linear-gradient(yellow, red, green);}
